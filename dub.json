@@ -1,0 +1,9 @@
+{
+	"name": "quadro",
+	"authors": [
+		"conorpc"
+	],
+	"description": "A lisp-like language",
+	"copyright": "Copyright © 2018, conorpc",
+	"license": "proprietary"
+}

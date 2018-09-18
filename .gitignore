@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+quadro.so
+quadro.dylib
+quadro.dll
+quadro.a
+quadro.lib
+quadro-test-*
+*.exe
+*.o
+*.obj
+*.lst
